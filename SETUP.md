@@ -18,6 +18,9 @@ Welcome to your GSoC Dashboard! This guide will walk you through setting up your
 
 ### 2. Enable GitHub Pages
 
+1. Go to your repository **Settings** → **Pages**
+2. Under **Source**, select **GitHub Actions**
+3. Click **Save**
 GitHub Pages will host your dashboard for free:
 
 1. Go to your forked repository
@@ -26,6 +29,9 @@ GitHub Pages will host your dashboard for free:
 4. Under **Source**, select **GitHub Actions** from the dropdown
 5. Click **Save**
 
+> **💡 Tip:** A workflow will check your Pages setup daily and create an issue if it needs attention.
+
+### Step 3: Add Your Information
 Your dashboard will be available at: `https://YOUR-USERNAME.github.io/MY-GSOC-TOOL/`
 
 ### 3. Configure Your Personal Information
