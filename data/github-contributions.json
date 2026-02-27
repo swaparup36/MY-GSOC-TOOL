@@ -1,10 +1,59 @@
 {
   "stats": {
-    "commits": 0,
-    "pullRequests": 0,
-    "issues": 0,
-    "reviews": 0
+    "commits": 15,
+    "pullRequests": 8,
+    "issues": 2,
+    "reviews": 1
   },
-  "contributions": [],
-  "lastUpdated": "2026-02-19T00:35:46.717Z"
+  "contributions": [
+    {
+      "title": "fix: import a GitHub organization so that it imports all repositories pull requests",
+      "description": "Pull Request #197 in OWASP-BLT/BLT-Leaf",
+      "date": "2026-02-20T21:42:20Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Leaf/pull/197"
+    },
+    {
+      "title": "fix: convos column value fetch error",
+      "description": "Pull Request #186 in OWASP-BLT/BLT-Leaf",
+      "date": "2026-02-19T19:07:23Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Leaf/pull/186"
+    },
+    {
+      "title": "feat: added service worker caching for static assets, CDN resources and API responses",
+      "description": "Pull Request #159 in OWASP-BLT/BLT-Leaf",
+      "date": "2026-02-19T00:35:05Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Leaf/pull/159"
+    },
+    {
+      "title": "feat: added a column for approvals showing icons of approvals",
+      "description": "Pull Request #143 in OWASP-BLT/BLT-Leaf",
+      "date": "2026-02-17T18:42:45Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Leaf/pull/143"
+    },
+    {
+      "title": "feature: automatic detect and cover faces in images",
+      "description": "Pull Request #5187 in OWASP-BLT/BLT",
+      "date": "2025-12-05T21:11:47Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5187"
+    },
+    {
+      "title": "Added a button on the hackathon details page to refresh all repos",
+      "description": "Pull Request #4905 in OWASP-BLT/BLT",
+      "date": "2025-11-19T09:06:48Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/4905"
+    },
+    {
+      "title": "made the landing page look exactly like the existing blt page with every component, menu bar and style",
+      "description": "Pull Request #4 in OWASP-BLT/BLT-on-Cloudflare",
+      "date": "2025-11-08T05:20:59Z",
+      "url": "https://github.com/OWASP-BLT/BLT-on-Cloudflare/pull/4"
+    },
+    {
+      "title": "fix: Slack link fixed on the contribute page",
+      "description": "Pull Request #4519 in OWASP-BLT/BLT",
+      "date": "2025-08-28T20:23:56Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/4519"
+    }
+  ],
+  "lastUpdated": "2026-02-27T07:11:00.661Z"
 }
