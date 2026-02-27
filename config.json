@@ -14,8 +14,9 @@
     "organization": "Your Organization",
     "timeline": "May 2024 - August 2024",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP-BLT/BLT",
+      "https://github.com/OWASP-BLT/BLT-Leaf",
+      "https://github.com/OWASP-BLT/BLT-on-Cloudflare"
     ]
   },
   "slack": {
