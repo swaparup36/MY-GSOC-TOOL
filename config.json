@@ -1,12 +1,12 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Swaparup Mukherjee",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
+    "avatar": "https://github.com/swaparup36.png",
+    "github": "https://github.com/swaparup36",
+    "email": "swaparup36@gmail.com",
     "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "linkedin": "https://www.linkedin.com/in/swaparup-mukherjee-508001280/"
   },
   "project": {
     "title": "Your GSoC Project Title",
