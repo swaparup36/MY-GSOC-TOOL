@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 15,
-    "pullRequests": 8,
-    "issues": 2,
-    "reviews": 1
+    "commits": 43,
+    "pullRequests": 16,
+    "issues": 3,
+    "reviews": 3
   },
   "contributions": [
+    {
+      "title": "feat: unresolved commits count label",
+      "description": "Pull Request #20 in OWASP-BLT/BLT-Pool",
+      "date": "2026-03-07T06:11:18Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Pool/pull/20"
+    },
     {
       "title": "fix: import a GitHub organization so that it imports all repositories pull requests",
       "description": "Pull Request #197 in OWASP-BLT/BLT-Leaf",
@@ -31,6 +37,12 @@
       "url": "https://github.com/OWASP-BLT/BLT-Leaf/pull/143"
     },
     {
+      "title": "feat: badge that gets auto added to the issue when it is created",
+      "description": "Pull Request #5739 in OWASP-BLT/BLT",
+      "date": "2026-02-14T20:51:35Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5739"
+    },
+    {
       "title": "feature: automatic detect and cover faces in images",
       "description": "Pull Request #5187 in OWASP-BLT/BLT",
       "date": "2025-12-05T21:11:47Z",
@@ -53,7 +65,13 @@
       "description": "Pull Request #4519 in OWASP-BLT/BLT",
       "date": "2025-08-28T20:23:56Z",
       "url": "https://github.com/OWASP-BLT/BLT/pull/4519"
+    },
+    {
+      "title": "replaced /social code with content from queue model",
+      "description": "Pull Request #4053 in OWASP-BLT/BLT",
+      "date": "2025-03-25T19:23:07Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/4053"
     }
   ],
-  "lastUpdated": "2026-02-27T07:11:00.661Z"
+  "lastUpdated": "2026-03-12T18:04:25.944Z"
 }
